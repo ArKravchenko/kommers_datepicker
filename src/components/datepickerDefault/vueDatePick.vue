@@ -155,5 +155,6 @@
     </div>
 </template>
 
-<script src="./vueDatePick.ts" lang="ts"></script>
-<style src="./vueDatePick.scss" lang="scss"></style>
+<script src="./vueDatePick.ts" lang="ts" ></script>
+<style src="./vueDatePick.scss" lang="scss" scoped></style>
+<style src="./customStyles.scss" lang="scss" scoped></style>
